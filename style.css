@@ -90,7 +90,7 @@ nav a {
     background-position: center;
     height: 500px;
     display: flex;
-    background-image: url(/Parik.webp);
+    background-image: url(./Parik.webp);
     margin-top: 10px;
     background-size: cover;
     background-position: 50% 50%;
